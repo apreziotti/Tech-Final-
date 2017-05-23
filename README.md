@@ -2,6 +2,9 @@
 
 You can use the [editor on GitHub](https://github.com/apreziotti/Tech-Final-/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
+<iframe width="600" height="371" seamless frameborder="0" scrolling="no" src="https://docs.google.com/spreadsheets/d/1-7XYHayr7Eac-1gJws-BLMoCAyIBGbFGyKz0odDaD-Q/pubchart?oid=400527163&amp;format=interactive"></iframe>
+
+
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
 ### Markdown
